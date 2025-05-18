@@ -1,0 +1,9 @@
+{
+  "session_history": [],
+  "performance_history": {},
+  "adaptive_parameters": {
+    "fatigue_factor": 1.0,
+    "interest_factor": 1.0,
+    "retention_rate": 0.8
+  }
+}
